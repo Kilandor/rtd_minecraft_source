@@ -1,0 +1,7 @@
+name: AdminPowers
+main: com.czecherface.adminpowers.AdminPowers
+version: 1.0
+commands:
+  ap:
+    description:
+    usage:

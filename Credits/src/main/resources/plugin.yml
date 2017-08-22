@@ -1,0 +1,7 @@
+name: Credits
+main: com.rtdgaming.credits.Credits
+version: 1.0
+commands:
+  credits:
+    description: Can be used to with get/set/add to modify player credits
+    usage: /credits [get|set|add] amount

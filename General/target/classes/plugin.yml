@@ -1,0 +1,52 @@
+name: General
+main: com.kilandor.general.General
+version: 1.0
+commands:
+  info:
+    description:
+    usage:
+  motd:
+    description:
+    usage:
+  general:
+    description:
+    usage:
+  gift:
+    description:
+    usage:
+  dispname:
+    description:
+    usage:
+  list:
+    description:
+    usage:
+  tp:
+    description:
+    usage:
+  tpme:
+    description:
+    usage:
+permissions:
+    general.*:
+        description: Gives access to all general commands
+        children:
+            general.op: true
+            general.general: true
+            general.dispname: true
+            general.gift: true
+            general.tele: true
+    general.op:
+        description: Flag as op for chat and online
+        default: op
+    general.general:
+        description: Reload Settings or Save Players
+        default: op
+    general.dispname:
+        description: Check history and realname of players
+        default: op
+    general.gift:
+        description: Silent/Mass Item giving
+        default: op
+    general.tele:
+        description: Teleport
+        default: op

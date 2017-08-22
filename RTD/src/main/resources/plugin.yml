@@ -1,0 +1,22 @@
+name: RTD
+main: com.rtdgaming.rtd.RTD
+version: 0.21
+commands:
+  rtd:
+    description:
+    usage:
+  a:
+    description:
+    usage:
+  port:
+    description:
+    usage:
+  rtdinfo:
+    description:
+    usage:
+  rope:
+    description:
+    usage:
+  rise:
+    description:
+    usage:

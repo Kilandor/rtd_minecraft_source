@@ -1,0 +1,7 @@
+name: ShimmerBlock
+main: com.czecherface.shimmerblock.ShimmerBlock
+version: 1.1
+commands:
+  shimmerblock:
+    description:
+    usage:

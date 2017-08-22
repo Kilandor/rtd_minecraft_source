@@ -1,0 +1,7 @@
+name: AgeofMinecraft
+main: com.kilandor.ageofminecraft.AgeofMinecraft
+version: 0.1
+commands:
+  town:
+    description:
+    usage:

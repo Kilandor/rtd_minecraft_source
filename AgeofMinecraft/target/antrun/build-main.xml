@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy file="target\AgeofMinecraft-0.1-SNAPSHOT.jar" tofile="C:\Users\Kilandor\Desktop\Minecraft\Server\plugins\AgeofMinecraft.jar"/>
+</target>
+</project>

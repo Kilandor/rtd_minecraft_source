@@ -1,0 +1,10 @@
+name: Economy
+main: com.rtdgaming.economy.Economy
+version: 1.0
+commands:
+  buy:
+    description:
+    usage:
+  econ:
+    description: Can be used with things like reload and info(server only)
+    usage:
